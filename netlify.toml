@@ -4,3 +4,7 @@
 
 [[plugins]]
   package = "netlify-plugin-cypress"
+
+[[redirects]]
+  from = "/index.html"
+  status = 200
