@@ -54,6 +54,8 @@ export default function Home() {
               <li>MA, Conflict Resolution</li>
               <li>BA, Psychology</li>
             </ul>
+            <p>ACC credential from International Coach Federation, 2020 - 2023<br /> 
+          Member, International Coach Federation, 2019 - present</p>
           </div>
           <div className="images">
             <ACCimage />
