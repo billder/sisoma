@@ -48,9 +48,9 @@ export default function Home() {
             <Header2 title="About Me" />
             <p>I'm glad you're here. I've always been interested in how we humans show up both as individuals and within systems, small and large. Personally and professionally, I seek to understand and then create conditions for success for my people, be they clients, employees, students, or fellow citizens.</p> 
             <ul>
+              <li>Coach certification: Georgetown University's Institute for Transformational Leadership</li>
               <li>ACC credential from the International Coach Federation, 2020-2023</li>
               <li>Member, International Coach Federation, 2019-present</li>
-              <li>Coach certification: Georgetown University's Institute for Transformational Leadership</li>
               <li>Ph.D., Urban Studies, with a focus on Community Development</li>
               <li>MA, Conflict Resolution</li>
               <li>BA, Psychology</li>
