@@ -46,10 +46,11 @@ export default function Home() {
           <div className="about">
             <a name="about" />
             <Header2 title="About Me" />
-            <p>I'm glad you're here. I've always been interested in how we humans show up both as individuals and within systems, small and large. Personally and professionally, I seek to understand and then create conditions for success for my people, be they clients, employees, students, or fellow citizens.</p> 
+            <p>I'm glad you're here. I've always been interested in how we humans show up both as individuals and within systems, small and large. Personally and professionally, I seek to understand and then create conditions for success for my people, be they clients, employees, students, or fellow citizens. 
+        I would love to do the same for you. <a href="http://www.calendly.com/sisoma/discovery">Let's talk.</a></p> 
             <ul>
               <li>Coach certification: Georgetown University's Institute for Transformational Leadership</li>
-              <li>ACC credential from the International Coach Federation, 2020-2023</li>
+              <li>ACC credential from the International Coach Federation, 2020-2026</li>
               <li>Member, International Coach Federation, 2019-present</li>
               <li>Ph.D., Urban Studies, with a focus on Community Development</li>
               <li>MA, Conflict Resolution</li>
