@@ -47,7 +47,7 @@ export default function Home() {
             <a name="about" />
             <Header2 title="About Me" />
             <p>I'm glad you're here. I've always been interested in how we humans show up both as individuals and within systems, small and large. Personally and professionally, I seek to understand and then create conditions for success for my people, be they clients, employees, students, or fellow citizens. 
-        I would love to do the same for you. <a href="http://www.calendly.com/sisoma/discovery">Let's talk.</a></p> 
+        I'd love to do the same for you. <a href="http://www.calendly.com/sisoma/discovery">Let's talk.</a></p> 
             <ul>
               <li>Coach certification: Georgetown University's Institute for Transformational Leadership</li>
               <li>ACC credential from the International Coach Federation, 2020-2026</li>
