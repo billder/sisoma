@@ -5,6 +5,7 @@ import Footer from '@components/Footer'
 import Nav from '@components/Nav'
 import MainImage from '@components/MainImage'
 import ACCimage from '@components/ACCImage'
+import PCCimage from '@components/PCCImage'
 
 
 export default function Home() {
@@ -50,7 +51,7 @@ export default function Home() {
         I'd love to do the same for you. <a href="http://www.calendly.com/sisoma/discovery">Let's talk.</a></p> 
             <ul>
               <li>Coach certification: Georgetown University's Institute for Transformational Leadership</li>
-              <li>ACC credential from the International Coach Federation, 2020-2026</li>
+              <li>PCC credential from the International Coach Federation, 2023-2026</li>
               <li>Member, International Coach Federation, 2019-present</li>
               <li>Ph.D., Urban Studies, with a focus on Community Development</li>
               <li>MA, Conflict Resolution</li>
@@ -58,7 +59,7 @@ export default function Home() {
             </ul>
           </div>
           <div className="images">
-            <ACCimage />
+            <PCCimage />
           </div>
           
         </main>
