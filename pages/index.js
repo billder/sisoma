@@ -22,7 +22,7 @@ export default function Home() {
             <MainImage />
             <a name="top" />
             <Header1 title="Samantha Soma" />
-            <p className="description">Executive and Leadership Coach, ACC</p>
+            <p className="description">Executive and Leadership Coach, PCC</p>
             <p>I coach established and emerging design leaders who work in corporate, nonprofit, healthcare, and government organizations.</p>
             <p>Through our work together, my clients have </p> 
             <ul>
