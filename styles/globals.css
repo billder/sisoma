@@ -72,7 +72,7 @@ main {
   /* position: 0, 0; */
 }
 
-.acc-image {
+.acc-image, .pcc-image {
   width: 250px;
 }
 
